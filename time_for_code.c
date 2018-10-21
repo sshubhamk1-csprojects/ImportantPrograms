@@ -1,3 +1,8 @@
+/*
+*	This snippet is to take the time taken to execute the code
+*	Made by Shubham Kumar
+*/
+
 #include <stdio.h>
 #include <time.h>
 
